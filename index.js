@@ -421,5 +421,4 @@ dbl.webhook.on('vote', vote => {
   db.add(`${vote.user}.balance`, Reward);
   console.log(`User with ID ${vote.user} just voted!`);
 });*/
-
-client.login(token);
+client.login(process.env.BOT_TOKEN);
