@@ -1,9 +1,8 @@
 {
-  "prefix": "+",
+  "prefix": "?",
   "database": "./backup.sqlite",
-  "token": "",
-  "ownerid": "",
-  "logchannelid": "",
+  "ownerid": "376384142599782410",
+  "logchannelid": "734869150240866487",
   "giphy": "",
   "steam": "",
   "osu": "",
