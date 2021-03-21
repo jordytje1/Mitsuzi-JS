@@ -4,7 +4,7 @@ const Util = require('./util/MitUtil.js');
 const db = require('./util/Database.js');
 
 const Discord = require('discord.js');
-const { prefix, token, ownerid, logchannelid, database, giphy, serverbypass } = require('./config.json');
+const { prefix, ownerid, logchannelid, database, giphy, serverbypass } = require('./config.json');
 const AntiSpam = require('discord-anti-spam');
 const Canvas = require('canvas');
 
